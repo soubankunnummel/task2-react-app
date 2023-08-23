@@ -1,0 +1,23 @@
+.maine{
+    display: flex;
+    height : 100vh;
+  
+    
+ /* justify-content: center;    */
+}
+.div-item{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+button{
+    border-radius: 1rem;
+    border: 1px solid black;
+   
+   
+    
+}
